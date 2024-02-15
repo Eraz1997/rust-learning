@@ -11,7 +11,7 @@ fn main() {
     FORMATTED PRINT
 
     Notes:
-    println uses the fmt::Display trait to display things. Structs which don't implements it can't be printed.
+    println uses the fmt::Display trait to display things. Structs which don't implement it can't be printed.
     
     */
 
